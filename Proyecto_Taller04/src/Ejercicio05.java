@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /**
@@ -31,5 +30,12 @@ public class Ejercicio05 {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+----------- Factura: Computadora de escritorio ------------
+Precio CPU _______________________ 200
+Precio teclado ___________________ 40
+Precio pantalla __________________ 70
+Precio raton _____________________ 25
+Total ---------------- 335.0
+BUILD SUCCESSFUL (total time: 16 seconds)
  */
